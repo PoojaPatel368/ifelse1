@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class UperLower {
+    //hello
     private static Scanner sc;
     public static void main(String[] args) {
         String Upper;

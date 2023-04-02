@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 public class Total {
+    //hello
 
 
     public static void main(String[] args) {

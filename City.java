@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class City {
     public static class city
+        //hello
     {
      public static void main(String[] args)
      {

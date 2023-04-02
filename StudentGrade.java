@@ -1,6 +1,7 @@
 import java.util.Scanner;
   public class StudentGrade {
     public static class ResultGrade{
+        //hello
         public void grade(){
             Scanner scanner=new Scanner(System.in);
             System.out.println("enter name;"+"\n"+"Roll Number:"+"\n"+"MathsMark:"+"\n"+"sciMark:"+"\n"+"EngMark:");

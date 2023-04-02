@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
     public class Check {
-
+// main method to check hello
         public static void main(String[] args) {
           //  taking input from the user using the Scanner
             Scanner scanner = new Scanner(System.in);

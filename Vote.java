@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 public class Vote
+    //hello
 {
     Scanner scanner = new Scanner(System.in);
 
